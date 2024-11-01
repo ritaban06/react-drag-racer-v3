@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-drag-racer-v3/static/css/main.799e85e5.css",
+    "main.js": "/react-drag-racer-v3/static/js/main.1b429146.js",
+    "static/js/453.d9f39420.chunk.js": "/react-drag-racer-v3/static/js/453.d9f39420.chunk.js",
+    "index.html": "/react-drag-racer-v3/index.html",
+    "main.799e85e5.css.map": "/react-drag-racer-v3/static/css/main.799e85e5.css.map",
+    "main.1b429146.js.map": "/react-drag-racer-v3/static/js/main.1b429146.js.map",
+    "453.d9f39420.chunk.js.map": "/react-drag-racer-v3/static/js/453.d9f39420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.1b429146.js"
+  ]
+}
